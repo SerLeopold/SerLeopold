@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SerLeopold.
-- 👀 I’m interested in gaming, science, space.
-- 🌱 I’m currently learning Python.
+- 👀 Interested in gaming, science, space.
+- 🌱 I’m currently learning C++ and Python.
 
 <!---
 SerLeopold/SerLeopold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
